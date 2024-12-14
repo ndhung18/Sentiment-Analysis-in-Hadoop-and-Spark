@@ -2,7 +2,7 @@
 
 This project explores sentiment analysis using various machine learning models within both Hadoop MapReduce and Apache Spark frameworks. We leverage the distributed processing capabilities of these frameworks to handle large-scale datasets for sentiment classification.
 
-*Group 18*
+**Group 18**
 | Member              | StudentID |
 |---------------------|-----------|
 | Ngô Đức Hùng        | 22022652  |
