@@ -1,15 +1,18 @@
-# Sentiment-Analysis-in-Hadoop-and-Spark
+# Sentiment Analysis in Hadoop and Spark - Big Data Project
 
-# Big Data Project
-Group 18:
-| MSV       | Thành viên          |
-|-----------|---------------------|
-| 22022652  | Ngô Đức Hùng        | 
-| 22022565  | Nguyễn Công Huynh   |
-| 22022571  | Nguyễn Văn Trường   |
+This project explores sentiment analysis using various machine learning models within both Hadoop MapReduce and Apache Spark frameworks. We leverage the distributed processing capabilities of these frameworks to handle large-scale datasets for sentiment classification.
 
-Link to report:
-Link to presentation:
+**Group 18 **
+| Member              | StudentID |
+|---------------------|-----------|
+| Ngô Đức Hùng        | 22022652  |
+| Nguyễn Công Huynh   | 22022565  |
+| Nguyễn Văn Trường   | 22022571  |
 
-## Input Data Used
- To train and test the classification models of each application, [this](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/) dataset of 1.6 million tweets was used in `csv` format with each line representing a document/tweet with its unique ID, class label, and tweet text as seen below.
+**Links:**
+
+*   [Report](https://drive.google.com/file/d/1eCJqifYAM5Tlin0-axEae8shCS1rkYNc/view?usp=sharing)
+*   Presentation Link:
+
+## Dataset
+To train and test the classification models of each application, [this](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/) dataset of 1.6 million tweets was used in `csv` format with each line representing a document/tweet with its unique ID, class label, and tweet text as seen below.
